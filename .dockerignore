@@ -1,0 +1,10 @@
+.codex_deps/
+.codex_pip_cache/
+.codex_tmp/
+.pytest_cache/
+.ruff_cache/
+.venv/
+__pycache__/
+build/
+.env
+

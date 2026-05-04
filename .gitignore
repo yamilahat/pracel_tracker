@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.venv/
+venv/
+env/
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test, lint, and type-check caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS-local files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Codex/local validation artifacts
+.codex_deps/
+.codex_pip_cache/
+.codex_tmp/
+
+# Runtime data
+postgres_data/
+redis_data/
