@@ -37,6 +37,7 @@ Thumbs.db
 .codex_deps/
 .codex_pip_cache/
 .codex_tmp/
+Microsoft/
 
 # Runtime data
 postgres_data/
